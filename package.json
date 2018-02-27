@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deepdivedylan/angular5-onscreen.git"
+    "url": "https://github.com/mschmitt5/angular5-again.git"
   },
   "dependencies": {
     "@angular/common": "^5.2.6",
